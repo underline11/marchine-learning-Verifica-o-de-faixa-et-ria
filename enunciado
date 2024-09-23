@@ -1,0 +1,14 @@
+Verificação de Faixa Etária
+Neste projeto, o objetivo é desenvolver uma aplicação em Python para verificar a faixa etária de uma pessoa com base na sua idade. O usuário fornecerá sua data de nascimento, e o programa calculará sua idade atual e classificará o usuário em uma das seguintes faixas etárias:
+
+Criança: 0 a 12 anos
+Adolescente: 13 a 17 anos
+Adulto: 18 a 59 anos
+Idoso: 60 anos ou mais
+O projeto utiliza operações de manipulação de datas, controle de fluxo e condições para realizar a verificação.
+
+Funcionalidades:
+Entrada da data de nascimento do usuário.
+Cálculo da idade atual.
+Classificação em uma das faixas etárias com base na idade.
+Exibição de mensagens personalizadas indicando a faixa etária do usuário
